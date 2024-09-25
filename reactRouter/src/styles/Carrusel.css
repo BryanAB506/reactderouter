@@ -1,0 +1,28 @@
+#carrusel {
+    width: 95%; /* Ajusta este valor para hacer el carrusel más pequeño o más grande */
+    margin: 0 auto; /* Centrar el carrusel en la página */
+  
+  }
+  
+  #carrusel img {
+    height: auto;
+    height: 650px;
+    border-radius: 10px;
+    width: 100%; /* Asegura que las imágenes mantengan la proporción del carrusel */
+  
+}
+
+#tituloCarrusel{
+  color: aliceblue;
+  background-color: rgba(255, 255, 255, 0.244);
+
+
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+#tituloCarrusel h5{
+  margin-right: 100px;
+}

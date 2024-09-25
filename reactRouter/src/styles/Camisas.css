@@ -1,0 +1,15 @@
+.navCamisas{
+    text-align: center;
+    height: 80px;
+    background-color: #d4af37;
+    border-radius: 5px;
+}
+
+.flecha{
+    font-size: 1.7em;
+}
+
+
+#card1{
+    width: 250px;
+}

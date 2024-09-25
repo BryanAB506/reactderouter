@@ -1,0 +1,39 @@
+.field {
+	margin-bottom: 10px;
+	width: 400px;
+	height: 300px;
+	border: 3px solid black;
+	text-align: center;
+	display: grid;
+	font-size: 1.3em;
+	justify-content: center;
+	margin-left: 300px;
+  }
+  
+  .field label {
+	display: block;
+	font-size: 12px;
+	color: #777;
+	font-size: 1em;
+	
+  }
+  
+  .field input {
+	display: block;
+	min-width: 250px;
+	line-height: 1.5;
+	font-size: 14px;
+	border: 3px solid black;
+	border-radius: 5px;
+  }
+  
+  .todas[type="submit"] {
+	display: block;
+	padding: 6px 30px;
+	font-size: 14px;
+	background-color: #4460AA;
+	color: #fff;
+	border: none
+  }
+
+

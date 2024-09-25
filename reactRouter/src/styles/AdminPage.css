@@ -1,0 +1,68 @@
+.tituloP{
+    background-color: #D4AF37;
+    height: 70px;
+    text-align: center;
+
+}
+
+
+.articulos{
+    margin-left: 200px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    gap: 2px;
+    width: 700px;
+    justify-content: center;
+}
+
+.botonAr{
+    width: 600px;
+    height: 30px;
+    line-height: 10px;
+    margin-left: 50px;
+    border: none;
+    outline: none;
+    background-color: #000000;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 5px;
+    transition: all ease 0.1s;
+    box-shadow: 0px 5px 0px 0px #d4af37d4;
+}
+
+.botonAr:active{
+    transform: translateY(5px);
+    box-shadow: 0px 0px 0px 0px #a29bfe;
+}
+
+
+.inputAr{
+    border-radius: 5px;
+    border: 4px solid black;
+}
+
+.labelAr{
+    font-size: 1.5em;
+    border-bottom: 2px solid black;
+    width: 400px;
+    margin-left: 140px;
+}
+
+.select{
+    font-size: 1.5em;
+    border: 4px solid black;
+    width: 700px;
+    text-align: center;
+}
+
+
+
+.TituCard{
+    background-color: #D4AF37;
+    height: 700px;
+    
+    text-align: center;
+}
